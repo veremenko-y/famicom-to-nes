@@ -6,8 +6,8 @@
 
   (title_block
     (title "Famicom to NES Adapter")
-    (date "2022-11-16")
-    (rev "Rev 1.1")
+    (date "2022-11-17")
+    (rev "Rev 1.2")
     (company "Yaroslav Veremenko")
   )
 
